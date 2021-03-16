@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This program is the first trial, this is the second trial
+=======
+This program is the first trial, this is the one in the other branch
+>>>>>>> test
